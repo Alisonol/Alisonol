@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my personal portfolio, including data analytics and RPA projects<br>🌱 I'm currently learning about Data Analytics, RPA, Statistics and Business Analytics<br>💬 Ask me about<br>⚡ Fun fact: I like academic competitions and 3d printing
+🔭 I'm currently working on my personal portfolio, including data analytics and RPA projects<br>🌱 I'm currently learning about Data Analytics, RPA, Statistics and Business Analytics<br>⚡ Fun fact: I like academic competitions and 3d printing
 
 
 ## 🌐 Socials:
